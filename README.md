@@ -1,6 +1,6 @@
 # Hydropower RAI Workforce Data
 
-This repository contains the publication data package created by National Laboratory of the Rockies (NLR) for the hydropower Robotics-and-AI workforce study. It is intentionally minimal: one CSV dataset, one codebook, and concise documentation for citation.
+This repository contains the publication data package created by National Laboratory of the Rockies (NLR) for the hydropower Robotics-and-AI workforce study.
 
 ## At A Glance
 
