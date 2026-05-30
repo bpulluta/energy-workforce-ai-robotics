@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Notebook and editor artifacts
+.ipynb_checkpoints/
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Local analysis outputs
+outputs/
+results/
+cache/

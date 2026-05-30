@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this data package, please cite the repository release and the associated publication."
+title: "Hydropower RAI Workforce Data"
+authors:
+  - name: "National Laboratory of the Rockies"
+date-released: 2026-05-30
+version: "1.0.0"
+repository-code: "https://github.com/bpulluta/energy-workforce-ai-robotics"
+url: "https://github.com/bpulluta/energy-workforce-ai-robotics"
+license: "CC-BY-4.0"
+keywords:
+  - hydropower
+  - robotics
+  - artificial intelligence
+  - workforce
+  - data
