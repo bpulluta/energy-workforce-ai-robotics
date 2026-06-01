@@ -24,8 +24,6 @@ This repository contains the publication data package created by National Labora
 - `data/README.md`: quick index of the data folder.
 - `CITATION.cff`: machine-readable citation metadata for GitHub and indexers.
 
-The CSV is about 3.1 MB, so it is suitable for GitHub release hosting without Git Large File Storage.
-
 To verify the archive after download, compare file hashes against `data/CHECKSUMS.sha256`.
 
 ## What The Data Contains
